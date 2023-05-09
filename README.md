@@ -10,5 +10,10 @@ My project allows users to see the dates the photographs of the streams were tak
 
 # Instructions on How to Use:
 1. Use the blue slider to find the date that you are looking for
-2. After the pcitures appear, scroll down to find the pictures you want to view (the date is written as follows: year/month/day)
+<img width="1430" alt="Screenshot 2023-05-09 at 11 53 35 AM HTU #1" src="https://github.com/Derekdel989/streamConnectViz/assets/78804445/6b33d468-ce8e-4c97-ada2-d40c3c55713c">
+
+2. After the pictures appear, scroll down to find the pictures you want to view (the date is written as follows: year/month/day)
 3. Then look at the legend for the colors to determine how much water does the stream in the photograph has (the legend is on top of the slider)
+
+<img width="1430" alt="Screenshot 2023-05-09 at 11 53 35 AM HTU #2" src="https://github.com/Derekdel989/streamConnectViz/assets/78804445/883567d3-2d0c-4338-9519-c60738aaf8cb">
+In the Screenshot above, you can see that the first photograph in the first row is closer to flooded water conditions. With these three steps, you can figure out how the water conditions are and how to find photographs of data. 
