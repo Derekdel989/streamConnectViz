@@ -1,32 +1,8 @@
-# streamConnectViz
-Interactive Web-Based Project to Visualize Stream Connectivity Image Data
+# Abstract:
+This project is way to study the connectivity of Connecticut Streams. We use a collection of images that were taken by cameras across Connecticut. Water connectivity is important for many reasons. One reason is because it allows species to cross over to different habitats and allows sediments and nutrients to move across the water ecosystem. The data allows us to see the changes of the water connectivity overtime and it shows us if there are decreases or the increases in water in the streams.
 
-## Mockup
+![Water-Connectivity](https://user-images.githubusercontent.com/78804445/237003986-c79571e9-8d18-4e67-aca3-5f1bcb3b0fdd.png)
 
-![mockup](https://github.com/ctdeepwatermonitoring/streamConnectViz/blob/main/readMeImages/StreamConnectViz_MockUp_012622.jpg)
-
-## Mapping Section Examples / Resources
-
-https://leafletjs.com/
-
-https://github.com/marybecker/bioassessment
-
-**Mapbox GL JS References**
-
-Tutorial - https://docs.mapbox.com/help/tutorials/show-changes-over-time/
-
-Expressions - https://docs.mapbox.com/mapbox-gl-js/style-spec/expressions/
-
-Style Circles - https://docs.mapbox.com/mapbox-gl-js/example/data-driven-circle-colors/
-
-Display a popup - https://docs.mapbox.com/mapbox-gl-js/example/popup/
-
-Time Slider - https://docs.mapbox.com/mapbox-gl-js/example/timeline-animation/
-
-
-
-## Img Section Mockup
-
-![imgMockup](https://github.com/ctdeepwatermonitoring/streamConnectViz/blob/main/readMeImages/trailcamdata_mockup_div3.jpg)
-
+# My Project:
+My project allows users to see the dates the photos of the streams were taken and where their location is in Connecticut. It also shows how dry or flooded the stream is. 
 
